@@ -1,6 +1,7 @@
 ## Welcome to Jeremy Huesman's page.
 
-The page below is the CS-499 Capstone of my Computer Scinece Degree program at SNHU.
+The page below is the CS-499 Capstone of my Computer Science Degree program at SNHU.
+
 ### Self-Assessment
 INSERT TEXT FROM SELF ASSESSMENT
 
