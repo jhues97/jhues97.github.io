@@ -4,7 +4,7 @@
 
 The page below is the CS-499 Capstone of my Computer Science Degree program at SNHU.
 
-###2196F3 Self-Assessment
+### Self-Assessment
 INSERT TEXT FROM SELF ASSESSMENT
 
 ### Collaborating in a Team Environment
