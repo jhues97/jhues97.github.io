@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Jeremy Huesman's homepage!
 
-You can use the [editor on GitHub](https://github.com/jhues97/jhues97.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+The page below is the CS-499 Capstone of my Computer Scinece Degree program at SNHU.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
