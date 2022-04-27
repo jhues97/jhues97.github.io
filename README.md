@@ -1,9 +1,29 @@
-## Welcome to Jeremy Huesman's homepage!
+## Welcome to Jeremy Huesman's page.
 
 The page below is the CS-499 Capstone of my Computer Scinece Degree program at SNHU.
-### Markdown
+### Self-Assessment
+INSERT TEXT FROM SELF ASSESSMENT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Collaborating in a Team Environment
+INSERT TEXT
+
+### Communicating to Stakeholders
+INSERT TEXT
+
+### Data Structures and Algorithms
+INSERT TEXT
+
+### Software Engineering 
+INSERT TEXT
+
+### Databases
+INSERT TEXT
+
+### Security
+INSERT TEXT
+
+### Artifact Introductions
+INSERT TEXT
 
 ```markdown
 Syntax highlighted code block
