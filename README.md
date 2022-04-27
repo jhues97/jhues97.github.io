@@ -1,5 +1,5 @@
 ```ruby
-## Welcome to Jeremy Huesman's page.
+Welcome to Jeremy Huesman's page.
 This page will showcase the CS-499 Capstone of my Computer Science Degree program at SNHU.
 ```
 
