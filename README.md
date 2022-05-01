@@ -1,5 +1,5 @@
 ## Welcome to Jeremy Huesman's Homepage!
-### Self-Assessment
+### Professional Self-Assessment
 INSERT TEXT FROM SELF ASSESSMENT
 
 ### Collaborating in a Team Environment
