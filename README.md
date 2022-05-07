@@ -2,12 +2,6 @@
 ### Professional Self-Assessment
 INSERT TEXT FROM SELF ASSESSMENT
 
-### Collaborating in a Team Environment
-INSERT TEXT
-
-### Communicating to Stakeholders
-INSERT TEXT
-
 ### Data Structures and Algorithms
 INSERT TEXT
 
