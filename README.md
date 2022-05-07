@@ -2,21 +2,6 @@
 ### Professional Self-Assessment
 INSERT TEXT FROM SELF ASSESSMENT
 
-### Data Structures and Algorithms
-INSERT TEXT
-
-### Software Engineering 
-INSERT TEXT
-
-### Databases
-INSERT TEXT
-
-### Security
-INSERT TEXT
-
-### Artifact Introductions
-INSERT TEXT
-
 ### Code Review of CS-330 3D Scene Project
 INSERT VIDEO
 
