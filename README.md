@@ -10,7 +10,9 @@ The first artifact in my portfolio:[ Artifact 1 - Jeremy Huesman.zip](https://gi
 ![3D Scene](/Assets/3dscene.png)
 
 ### Category Two Enhancement - Algorithms and Data Structure
-INSERT NARRATIVE
+[Artifact 2 - Jeremy Huesman](https://github.com/jhues97/jhues97.github.io/blob/b7a8d17d93fc538dddf2f763bb0bc9481ece0382/Artifact%202%20-%20Jeremy%20Huesman.zip)
+
+
 
 ### Category Three Enhancement - Databases
 INSERT NARRATIVE
