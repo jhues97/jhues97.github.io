@@ -12,7 +12,7 @@ The first artifact in my portfolio:[ Artifact 1 - Jeremy Huesman.zip](https://gi
 ### Category Two Enhancement - Algorithms and Data Structure
 [Artifact 2 - Jeremy Huesman](https://github.com/jhues97/jhues97.github.io/blob/b7a8d17d93fc538dddf2f763bb0bc9481ece0382/Artifact%202%20-%20Jeremy%20Huesman.zip)
 
-![Database Recreated In Virutal Machine](/Assets/art2menu.png)
+![Sorting Menu](/Assets/art2menu.png)
 
 
 
