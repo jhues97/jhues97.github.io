@@ -10,8 +10,7 @@ The first artifact in my portfolio:[ Artifact 1 - Jeremy Huesman.zip](https://gi
 ![3D Scene](/Assets/3dscene.png)
 
 ### Category Two Enhancement - Algorithms and Data Structure
-[Artifact 2 - Jeremy Huesman](https://github.com/jhues97/jhues97.github.io/blob/b7a8d17d93fc538dddf2f763bb0bc9481ece0382/Artifact%202%20-%20Jeremy%20Huesman.zip)
-
+The second artifact in my portfolio:[Artifact 2 - Jeremy Huesman](https://github.com/jhues97/jhues97.github.io/blob/b7a8d17d93fc538dddf2f763bb0bc9481ece0382/Artifact%202%20-%20Jeremy%20Huesman.zip), is the binary search tree from CS-260 Data Structures and Algorithms. The search tree uses nodes to search the CSV file to display and sort bids pulled from the CSV file. The enhancements I made to this project were to give the user more options for working with the dataset. I also worked to find the best way to have the file loaded to pull the information requested that was the most efficient. During the courses, we learned that making our code as efficient as possible is what we should strive to accomplish.
 ![Sorting Menu](/Assets/art2menu.png)
 
 
