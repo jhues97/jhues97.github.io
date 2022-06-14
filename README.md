@@ -1,7 +1,5 @@
 ## Welcome to Jeremy Huesman's Homepage!
 ### Professional Self-Assessment
-
-### Self-Assessment
 Since starting my computer science course, we have learned various skills and topics. Before starting my course, I had worked on fixing computers for friends and family. I had completed the CompTIA A+ certification before enrolling as I was looking to switch to the technology field. During the degree program, I made this switch to a helpdesk job. The courses have helped me gain more understanding of the workings of computers from a programming point of view. I have been able to move up to another position to continue growing in this new career.
 
 ### Collaborating in a Team Environment
